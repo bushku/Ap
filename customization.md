@@ -12,16 +12,15 @@
         <main>
           <article class="profile">
             <picture class="profile-img">
-              <source srcset="images/profile.png" media="(min-width: 600px)">
-              <img src="images/profile.png" alt="profile">
+              <img src="https://avatars.githubusercontent.com/u/42120904?v=4" alt="profile">
             </picture>
             <div class="content">
               <p class="detail">Coding Profile</p>
                 <h1>Shruthi Damodar</h1>
               <p>
-                Highschool student who has been coding for 3 years.
+                A student who wants to become an electrical engineer after high school.
               </p>
-              <a href="https://pages.github.com/" class="button"></a>
+               <a href="https://github.com/bushku" class="button">GitHub</a>
             </div>
           </article>
         </main>
