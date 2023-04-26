@@ -26,38 +26,38 @@ canvas {
   --snake: rgb(0, 128, 43);
 }
 #p1 {
-  color:purple;
+  color:rgb(0, 128, 43);
   position:relative;
   padding-left: 50px;
   padding-top: 25px;
 
 }
 #p2 {
-  color:purple;
+  color:rgb(0, 128, 43);
   position:relative;
   padding-left: 50px;
   padding-top: 25px;
 }
 #score {
-  color:purple;
+  color:rgb(0, 128, 43);
   position:relative;
   padding-left: 50px;
   padding-top: 25px;
 }
 #high {
-  color:purple;
+  color:rgb(0, 128, 43);
   position:relative;
   padding-left: 50px;
   padding-top: 25px;
 }
 #btn_stop {
-  color:purple;
+  color:rgb(0, 128, 43);
   position:absolute;
   bottom: 50px;
   right: 43%;
 }
 #end_msg {
-  color:purple;
+  color:rgb(0, 128, 43);
   position:relative;
   padding-left: 50px;
   padding-top: 20px;
@@ -65,7 +65,7 @@ canvas {
 button {
   border-radius: 20px;
   background-color: white;
-  color: purple;
+  color: rgb(0, 128, 43);
   font-size: 12px;
   font-weight: bold;
   padding: 12px 45px;
