@@ -29,25 +29,25 @@ User testing plays a large role in user interface design because, after all, the
 <h1>Customization 2</h1>
 
 <h2>1. What is Bootstrap and how is it useful n developing websites?</h2>
-<!--<p>ANSWER</p>-->
+Bootstrap is a CSS library that provides modular styling classes for developers to use instead of creating their own library from scratch.
 <h2>2. What are the benefits of using Bootstrap in web development compared to css?</h2>
-<!--<p>ANSWER</p>-->
+Bootstrap is CSS. By leveraging Bootstrap classes, the developer can save valuable time and instead use it for actual content development.
 <h2>3. How can you include Bootstrap in YOUR website development?</h2>
-<!--<p>ANSWER</p>-->
+You can the resource to your HTML `&lt;head&gt;` tag and simply mark HTML elements with whatever classes you would like.
 <h2>4. What do selectors do? Explain one selector in your own words.</h2>
-<!--<p>ANSWER</p>-->
+Selectors select on the basis of the `class` attribute. The `.test` selector, for example, would apply styling to all elements with the `test` class.
 
 <hr>
 
 <h1>JavaScript</h1>
 
 <h2>1. What are examples of selection, iteration, and sequencing in the snake game?</h2>
-<!--<p>ANSWER</p>-->
+Selection: the use of `if` statements to check whether the snake has wrapped around the canvas in the x direction.
+Iteration: the use of the `forEach` higher-order method to loop through the snake's cells and draw on the canvas appropriately.
 <h2>2. How does ":root" contribute to the customization of the game?</h2>
-<!--<p>ANSWER</p>-->
+The `:root` selector allows you to define CSS variables for use throughout the rest of the program.
 <h2>3. Write 2-3 sentences about how the use of HTML, JavaScript, and CSS creates the final product.</h2>
-<!--<p>ANSWER</p>-->
-
+HTML is used for laying out the elements of a site, CSS arranges and styles these elements, and JavaScript adds interactivity to these elements. Each of these 3 languages has different syntax—HTML is a markup language, CSS is a styling-based markup language, and JavaScript is more of a traditional, imperative/object-oriented language.
 
 </div>
 </body>
