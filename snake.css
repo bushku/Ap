@@ -23,41 +23,41 @@ canvas {
 }
 :root {
   --apple: rgb(255, 192, 218);
-  --snake: rgb(0, 128, 43);
+  --snake: #b8b8d1;
 }
 #p1 {
-  color:rgb(0, 128, 43);
+  color:#b8b8d1;
   position:relative;
   padding-left: 50px;
   padding-top: 25px;
 
 }
 #p2 {
-  color:rgb(0, 128, 43);
+  color:#b8b8d1;
   position:relative;
   padding-left: 50px;
   padding-top: 25px;
 }
 #score {
-  color:rgb(0, 128, 43);
+  color:#b8b8d1;
   position:relative;
   padding-left: 50px;
   padding-top: 25px;
 }
 #high {
-  color:rgb(0, 128, 43);
+  color:#b8b8d1;
   position:relative;
   padding-left: 50px;
   padding-top: 25px;
 }
 #btn_stop {
-  color:rgb(0, 128, 43);
+  color:#b8b8d1;
   position:absolute;
   bottom: 50px;
   right: 43%;
 }
 #end_msg {
-  color:rgb(0, 128, 43);
+  color:#b8b8d1;
   position:relative;
   padding-left: 50px;
   padding-top: 20px;
@@ -65,7 +65,7 @@ canvas {
 button {
   border-radius: 20px;
   background-color: white;
-  color: rgb(0, 128, 43);
+  color: #b8b8d1;
   font-size: 12px;
   font-weight: bold;
   padding: 12px 45px;
