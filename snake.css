@@ -23,7 +23,7 @@ canvas {
 }
 :root {
   --apple: rgb(255, 192, 218);
-  --snake: purple;
+  --snake: rgb(0, 128, 43);
 }
 #p1 {
   color:purple;
